@@ -2,7 +2,7 @@
 - 👀 I’m interested in using code to make accounting easier 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me one of my emails is bishopbbenjamin6789@gmail.com
+- 📫 How to reach me: <a href='mailto:bishopbenjamin6789@gmail.com'>bishopbenjamin6789@gmail.com</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a cat person.
 
