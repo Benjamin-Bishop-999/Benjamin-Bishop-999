@@ -1,6 +1,8 @@
 
 ## Hi, I’m Ben Bishop
-Pronouns: he/him
+Pronouns: he/him 
+I have learned how to code in C# and am certified in html and css
+I am certified in time managment(which is funny because i am horrible at it)
 as of 2024 i am a student attending [Fenton Highschool](https://www.fentonschools.org/) and i am duel enroled in [GCI](https://geneseegci.ss19.sharpschool.com).
 ## 👀 I’m interested in using code to make accounting easier     
 I have always like useing spreadsheets (something im sure will change when I have to use spreadsheets) and I have 
@@ -18,4 +20,4 @@ or me linked in account(I dont have one yet):<a href="https://www.linkedin.com/i
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-Bishop-999&layout=compact"/> 
 </a> 
   <p align='center'>
-I have learned how to code in C# html and css
+
