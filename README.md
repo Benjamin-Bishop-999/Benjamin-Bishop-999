@@ -4,9 +4,9 @@ Pronouns: he/him
 I have learned how to code in C# and am certified in html and css
 I am certified in time managment(which is funny because i am horrible at it)
 as of 2024 i am a student attending [Fenton Highschool](https://www.fentonschools.org/) and i am duel enroled in [GCI](https://geneseegci.ss19.sharpschool.com).
-## 👀 I’m interested in using code to make accounting easier     
+## I’m interested in using code to make accounting easier     
 I have always like useing spreadsheets (something im sure will change when I have to use spreadsheets) and I have 
-## 🌱 I’m currently learning java & GitHub
+## I’m currently learning java & GitHub
 I am learning at the genesse carear institute
 my teacher is andrew spiece
 ## 📫 How to reach me:
