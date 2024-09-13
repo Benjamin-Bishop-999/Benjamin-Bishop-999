@@ -1,7 +1,7 @@
 
 ## Hi, I’m Ben Bishop
 Pronouns: he/him
-as of 2024 i am a student attending fenton highschool and i am duel enroled in [GCI]((https://geneseegci.ss19.sharpschool.com/)).
+as of 2024 i am a student attending fenton highschool and i am duel enroled in [GCI](https://geneseegci.ss19.sharpschool.com).
 ## 👀 I’m interested in using code to make accounting easier     
 I have always like useing spreadsheets (something im sure will change when I have to use spreadsheets) and I have 
 ## 🌱 I’m currently learning java & GitHub
